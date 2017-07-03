@@ -32,7 +32,6 @@ import android.text.TextUtils;
 import java.io.File;
 
 import org.cyanogenmod.internal.util.FileUtils;
-import org.cyanogenmod.internal.util.ScreenType;
 
 public class TouchscreenGesturePreferenceFragment extends PreferenceFragment {
     private SwitchPreference mFlipPref;
